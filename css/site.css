@@ -34,7 +34,7 @@ h1{
     color: white;
 }
 .intro_bg{
-    background-image: url(./img/bmw2.jpg);
+    background-image: url(/img/bmw2.jpg);
     width: 100%;
     height: 718px;
     background-size: cover; /*이미지를 화면에 맞게 근데사진이 반복되있음*/
